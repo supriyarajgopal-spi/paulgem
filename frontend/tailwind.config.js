@@ -6,6 +6,7 @@ module.exports = {
     extend: {
       colors: {
         primary: colors.indigo,
+        jmBg: '#fcf9ee'
       },
       container: {
         center: true,
